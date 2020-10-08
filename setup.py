@@ -8,7 +8,7 @@ setup(
   author = 'Sequent Microsystems',
   author_email = 'olcitu@gmail.com',
   url = 'https://sequentmicrosystems.com',
-  download_url = 'https://github.com/alexburcea2877/lib8relay/archive/v_102.tar.gz',
+  download_url = 'https://github.com/alexburcea2877/lib8relay/archive/v_1_0_2.tar.gz',
   keywords = ['relay', 'raspberry', 'power'],
   install_requires=[
           'smbus',
